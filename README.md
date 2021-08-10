@@ -22,5 +22,5 @@ https://www.anaconda.com/products/individual
 1.Clone this repository
 
 ```html
-https://github.com/DipeshDhandha07/.git
+https://github.com/DipeshDhandha07/Data-Structure.git
 ```
